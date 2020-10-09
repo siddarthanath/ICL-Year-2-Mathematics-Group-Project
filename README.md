@@ -1,5 +1,5 @@
 # ICL-Year-2-Mathematics-Group-Project
-## M2R Project (group of 5) focussing on Conformal Mappings and their applications
+M2R Project (group of 5) focussing on Conformal Mappings and their applications
 <br/>
 The purpose of this group project is to encourage team work and communication skills, required in any kind of research or in employment. The mathematical content of each project is important, but so is the process of working with others to produce a report, and to prepare an oral presentation to a strict deadline.
 <br/>
