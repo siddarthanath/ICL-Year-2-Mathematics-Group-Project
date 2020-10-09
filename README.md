@@ -22,15 +22,3 @@ This project took approximately 3 weeks to complete, which involved a collaborat
   - This can be done, for example, by recording an MS Teams session, in which you take turns to voice over different parts of a shared slide presentation. 
   - Note that there should be an overall flow to your presentation, it should not be 4 or 5 individual presentations glued together. 
 <br/>
-## <ins>Grading Criteria</ins>:
-<br/>
-### Written report (80%)
-<br/>
-Presentation – 20%; Contents – 40%; Mathematical Rigour, Initiative and Bonus – 20%
-  - The project will be marked by two members of staff with expertise in the broad area of the project.
-  - Usually, every member of the group receives the same mark for the written report.
-<br/>
-### Oral presentation (20%)
-<br/>
-The mark is based on the assessment of the two markers who will also mark your written report. 
-  - The assessors will award individual marks for each student presenting.
