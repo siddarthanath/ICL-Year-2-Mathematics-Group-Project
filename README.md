@@ -9,5 +9,5 @@ This report is strongly related to the Complex Analysis module (MATH95007) and M
 - Medical Imaging
 This project took approximately 3 weeks to complete, which involved a collaboration between 5 Mathematics students (international and UK). We produced a 30 page project at the end of the course and achieved a raw mark of 86% in the module. 
 <br/>
-## <ins>Project Criteria</ins>:
+## Project Criteria:
 
