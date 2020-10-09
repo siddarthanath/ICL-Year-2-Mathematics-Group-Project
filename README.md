@@ -9,7 +9,7 @@ This report is strongly related to the Complex Analysis module (MATH95007) and M
 - Medical Imaging
 This project took approximately 3 weeks to complete, which involved a collaboration between 5 Mathematics students (international and UK). We produced a 30 page project at the end of the course and achieved a raw mark of 86% in the module. 
 <br/>
-## <ins>Project Overview</ins>:
+##<ins>Project Overview</ins>:
 This report is strongly related to the Complex Analysis module (MATH95007) and Metric Spaces & Topology module (MATH95008) and focuses on two main applications of conformal mapping:
 1. The report should be produced using LaTeX. 
   - It should have clear organisation, and should include acontents list and a list of references. 
