@@ -6,7 +6,7 @@ The purpose of this group project is to encourage team work and communication sk
 This report is strongly related to the Complex Analysis module (MATH95007) and Metric Spaces & Topology module (MATH95008) and focuses on two main applications of conformal mapping:
 <br/>
 - Fluid Flow
-- Medical Imaging\
+- Medical Imaging
 
 This project took approximately 3 weeks to complete, which involved a collaboration between 5 Mathematics students (international and UK). 
 <br/> 
