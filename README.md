@@ -1,5 +1,6 @@
 # ICL-Year-2-Mathematics-Group-Project
-Note: This project is &copy; by the written authors and hence any material cannot be copied directly. If you wish to use any code, images or written analysis, please email sidnath01@hotmail.com 
+## Note: 
+*This project is &copy; by the written authors and hence any material cannot be copied directly. If you wish to use any code, images or written analysis, please email:* sidnath01@hotmail.com 
 ## <ins>Project Purpose</ins>:
 The purpose of this group project is to encourage team work and communication skills, required in any kind of research or in employment. The mathematical content of each project is important, but so is the process of working with others to produce a report, and to prepare an oral presentation to a strict deadline.
 <br/>
