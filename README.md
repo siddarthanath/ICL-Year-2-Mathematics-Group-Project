@@ -29,7 +29,7 @@ We produced a 30 page project at the end of the course and achieved a raw mark o
 ### Written report (80%)
 Presentation – 20%; Contents – 40%; Mathematical Rigour, Initiative and Bonus – 20%\
 The project will be marked by two members of staff with expertise in the broad area of the project.\
-Usually, every member of the group receives the same mark for the written report.\
+Usually, every member of the group receives the same mark for the written report.
 ### Oral presentation (20%)
 The mark is based on the assessment of the two markers who will also mark your written report.\
 The assessors will award individual marks for each student presenting.
