@@ -10,6 +10,7 @@ This report is strongly related to the Complex Analysis module (MATH95007) and M
 This project took approximately 3 weeks to complete, which involved a collaboration between 5 Mathematics students (international and UK). We produced a 30 page project at the end of the course and achieved a raw mark of 86% in the module. 
 <br/>
 ## <ins>Project Criteria</ins>:
+<br/>
 1. The report should be produced using LaTeX. 
   - It should have clear organisation, and should include acontents list and a list of references. 
   - The suggested length is about 20-25 sides (of double-spaced A4) for a group of 4, or about 25-30 for a group of 5. But these guidelines are not rigid. 
