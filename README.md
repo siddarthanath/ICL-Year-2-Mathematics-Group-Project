@@ -14,6 +14,7 @@ We produced a 30 page project at the end of the course and achieved a raw mark o
 <br/>
 ## <ins>Project Results</ins>:
 ![Image of Error](https://github.com/PolyNath/ICL-Year-2-Mathematics-Group-Project/blob/main/images/error.png)
+![Image of Colonoscopy](https://github.com/PolyNath/ICL-Year-2-Mathematics-Group-Project/blob/main/images/Outline.png)
 ## <ins>Project Criteria</ins>:
 1. The report should be produced using LaTeX. 
   - It should have clear organisation, and should include acontents list and a list of references. 
