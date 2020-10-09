@@ -1,4 +1,5 @@
 # ICL-Year-2-Mathematics-Group-Project
+## <ins>Project Purpose</ins>:
 The purpose of this group project is to encourage team work and communication skills, required in any kind of research or in employment. The mathematical content of each project is important, but so is the process of working with others to produce a report, and to prepare an oral presentation to a strict deadline.
 <br/>
 <br/>
@@ -22,7 +23,7 @@ This project took approximately 3 weeks to complete, which involved a collaborat
   - Note that there should be an overall flow to your presentation, it should not be 4 or 5 individual presentations glued together. 
 <br/>
 ## <ins>Grading Criteria</ins>:
-#### Written report (80%)
+### Written report (80%)
 <br/>
 Presentation – 20%; Contents – 40%; Mathematical Rigour, Initiative and Bonus – 20%
   - The project will be marked by two members of staff with expertise in the broad area of the project.
