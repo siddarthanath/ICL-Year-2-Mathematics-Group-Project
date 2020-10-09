@@ -17,7 +17,7 @@ We produced a 30 page project at the end of the course and achieved a raw mark o
 ![Image of Error](https://github.com/PolyNath/ICL-Year-2-Mathematics-Group-Project/blob/main/images/error.png)
 ## Virtual Colonoscopy Process
 ![Image of Colonoscopy](https://github.com/PolyNath/ICL-Year-2-Mathematics-Group-Project/blob/main/images/Outline.png)
-# *To see more results and factual interpretations, read the applications_of_conformal_mappings file.
+# *To see more results and factual interpretations, read the applications_of_conformal_mappings file.*
 ## <ins>Project Criteria</ins>:
 1. The report should be produced using LaTeX. 
   - It should have clear organisation, and should include acontents list and a list of references. 
