@@ -2,13 +2,13 @@
 ## <ins>Project Purpose</ins>:
 The purpose of this group project is to encourage team work and communication skills, required in any kind of research or in employment. The mathematical content of each project is important, but so is the process of working with others to produce a report, and to prepare an oral presentation to a strict deadline.
 <br/>
-<br/>
 ## <ins>Project Overview</ins>:
 This report is strongly related to the Complex Analysis module (MATH95007) and Metric Spaces & Topology module (MATH95008) and focuses on two main applications of conformal mapping:
 <br/>
 - Fluid Flow
 - Medical Imaging
 This project took approximately 3 weeks to complete, which involved a collaboration between 5 Mathematics students (international and UK). We produced a 30 page project at the end of the course and achieved a raw mark of 86% in the module. 
+<br/>
 ## <ins>Project Criteria</ins>:
 1. The report should be produced using LaTeX. 
   - It should have clear organisation, and should include acontents list and a list of references. 
@@ -23,13 +23,14 @@ This project took approximately 3 weeks to complete, which involved a collaborat
   - Note that there should be an overall flow to your presentation, it should not be 4 or 5 individual presentations glued together. 
 <br/>
 ## <ins>Grading Criteria</ins>:
+<br/>
 ### Written report (80%)
 <br/>
 Presentation – 20%; Contents – 40%; Mathematical Rigour, Initiative and Bonus – 20%
   - The project will be marked by two members of staff with expertise in the broad area of the project.
   - Usually, every member of the group receives the same mark for the written report.
 <br/>
-#### Oral presentation (20%)
+### Oral presentation (20%)
 <br/>
 The mark is based on the assessment of the two markers who will also mark your written report. 
   - The assessors will award individual marks for each student presenting.
