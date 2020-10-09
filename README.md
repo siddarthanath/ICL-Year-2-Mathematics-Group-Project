@@ -13,7 +13,9 @@ This project took approximately 3 weeks to complete, which involved a collaborat
 We produced a 30 page project at the end of the course and achieved a raw mark of 86% in the module. 
 <br/>
 ## <ins>Project Results</ins>:
-![Image of Error](https://github.com/PolyNath/ICL-Year-2-Mathematics-Group-Project/blob/main/images/error.png)
+## Error Analysis in Calculating the Lift Coefficient of the NACA 23012 Airfoil
+![Image of Error](https://github.com/PolyNath/ICL-Year-2-Mathematics-Group-Project/blob/main/images/error.png)\
+## Virtual Colonoscopy Process
 ![Image of Colonoscopy](https://github.com/PolyNath/ICL-Year-2-Mathematics-Group-Project/blob/main/images/Outline.png)
 ## <ins>Project Criteria</ins>:
 1. The report should be produced using LaTeX. 
